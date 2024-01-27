@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Robotic Surgery Project repository! This project aims to show the implementation of the integration of advanced robotic technologies into the operating room. The use of robotics in surgery brings precision, flexibility, and enhanced control, ultimately improving patient outcomes. This readme provides an overview of the project, including how it works and the ideal surgical procedure.
+Welcome to the Robotic Surgery Project repository! This project aims to show the implementation of the integration of advanced robotic technologies into the operating room. The use of robotics in surgery brings precision, flexibility, and enhanced control, ultimately improving patient outcomes. This readme provides an overview of the project, including how it works and the ideal surgical procedure. You will find the main code in the file [robotic_surgery.py](./robotic_surgery.py)
 
 ## How It Works
 
